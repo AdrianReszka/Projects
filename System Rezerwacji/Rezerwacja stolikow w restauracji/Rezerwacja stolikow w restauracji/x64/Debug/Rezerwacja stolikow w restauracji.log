@@ -1,0 +1,10 @@
+﻿  Date.cpp
+  List_res.cpp
+  List_table.cpp
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Projects\System Rezerwacji\List_table.cpp(278,7): warning C4101: "sign": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Projects\System Rezerwacji\List_table.cpp(281,6): warning C4101: "selectedTableSeatsCount": lokalna zmienna, do której nie istnieje odwołanie
+  main.cpp
+  Reservation.cpp
+  Table.cpp
+  Generowanie kodu...
+  Rezerwacja stolikow w restauracji.vcxproj -> C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Projects\System Rezerwacji\Rezerwacja stolikow w restauracji\x64\Debug\Rezerwacja stolikow w restauracji.exe
