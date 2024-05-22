@@ -1,0 +1,22 @@
+Znaleziono cykl dla liczby: 1|| 1 2 3 4 5 
+
+Znaleziono cykl dla liczby: 1|| 1 2 4 5 
+
+Znaleziono cykl dla liczby: 1|| 1 5 
+
+Znaleziono cykl dla liczby: 2|| 2 3 4 5 1 
+
+Znaleziono cykl dla liczby: 2|| 2 4 5 1 
+
+Znaleziono cykl dla liczby: 3|| 3 4 5 1 2 
+
+Znaleziono cykl dla liczby: 4|| 4 5 1 2 3 
+
+Znaleziono cykl dla liczby: 4|| 4 5 1 2 
+
+Znaleziono cykl dla liczby: 5|| 5 1 2 3 4 
+
+Znaleziono cykl dla liczby: 5|| 5 1 2 4 
+
+Znaleziono cykl dla liczby: 5|| 5 1 
+
